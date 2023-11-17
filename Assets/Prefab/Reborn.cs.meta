@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2bdafdf3bbd66cc4db9366961f203626
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Void0: {fileID: 595325553923338281, guid: f52c4b2188a957d428b7a33852c718ae, type: 3}
+  - Border1: {fileID: 3122732435358826448, guid: bbf9d101afc6dd74a946954ada8978f9, type: 3}
+  - Corridor2: {fileID: 7807877758947471277, guid: df2626a7f7ca1a943affe86309167a7e, type: 3}
+  - Wall3: {fileID: 4958495561141791232, guid: 58ec991926a3fde46a7a941da1e6a381, type: 3}
+  - Floor4: {fileID: 8357559805925664037, guid: 322ca08b484082c4fbb05a623e0ebcbc, type: 3}
+  - Door5: {fileID: 341783827206471025, guid: a3ad9b5990934b04598f3197be474615, type: 3}
+  - PlayerSpawn6: {fileID: 4682876652110271453, guid: 5589da642d2aa7048a6b7ed7d534724b, type: 3}
+  - EnemySpawn7: {fileID: 6468448176772879927, guid: 81947c81162dea046b322cb52b304848, type: 3}
+  - PlayerRoom8: {fileID: 7067686797467674890, guid: 3ada286c8f93b9a45bca478be6b3447d, type: 3}
+  - BossWall9: {fileID: 6057064955392451539, guid: 1c5c274ac4d4c75458ba19219194b4a6, type: 3}
+  - BossFloor10: {fileID: 2055685468055846939, guid: 0515de4a2208382488743b8451d03336, type: 3}
+  - BossSpawn11: {fileID: 7128924983198947175, guid: 5c5ef3a57b205814aa2808a8bdf3f0f2, type: 3}
+  - Objects12: {fileID: 2092351273352375968, guid: 75378720aa0b7b6439d2c21cca96b5cf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
